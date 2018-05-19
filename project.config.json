@@ -1,0 +1,15 @@
+{
+	"description": "6mai Demo App",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx06aaf6f96fdcdaa1",
+	"projectname": "appdemo_6mai",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
