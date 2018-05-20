@@ -1,0 +1,31 @@
+<style lang="less">
+</style>
+
+<template>
+  <view class="page">
+    <view class="page__bd">
+    </view>
+  </view>
+</template>
+
+<script>
+  import wepy from 'wepy'
+
+  export default class Index extends wepy.page {
+    config = {
+      navigationBarTitleText: '工作机会'
+    }
+
+    data = {
+    }
+
+    methods = {
+    }
+
+    events = {
+    }
+
+    onLoad() {
+    }
+  }
+</script>
